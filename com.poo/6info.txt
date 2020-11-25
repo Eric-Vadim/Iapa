@@ -1,0 +1,7 @@
+1. String e simplu String din Java. String[*] e array de stringuri. String{id} at trebui să fie tot String obișnuit care semnifică id, puneti simplu String.
+2. FullName ar trebui să fie computed property dar puteti ignora și crea un tip de date aparte pentru el.
+Gender poate fi un enum.
+Date e de tip Date.
+Address tot ar trebui să fie tip special dar puteti folosi String pentru simplitate.
+Phone de asemenea String obișnuit.
+3. Ignorați / din față la proprietăți - el ar trebui să semnifice după context computed property dar în cazul nostru nu pun accentul pe el. Așa că ignorați după cum v-am spus la lecția trecută.
